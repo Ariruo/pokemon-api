@@ -1,13 +1,13 @@
 {
-  "main.css": "/Ariruo/pokemon-api/static/css/main.19647aba.chunk.css",
-  "main.js": "/Ariruo/pokemon-api/static/js/main.fd3d8750.chunk.js",
-  "main.js.map": "/Ariruo/pokemon-api/static/js/main.fd3d8750.chunk.js.map",
-  "static/js/1.ad961163.chunk.js": "/Ariruo/pokemon-api/static/js/1.ad961163.chunk.js",
-  "static/js/1.ad961163.chunk.js.map": "/Ariruo/pokemon-api/static/js/1.ad961163.chunk.js.map",
-  "runtime~main.js": "/Ariruo/pokemon-api/static/js/runtime~main.36713bb8.js",
-  "runtime~main.js.map": "/Ariruo/pokemon-api/static/js/runtime~main.36713bb8.js.map",
-  "static/css/main.19647aba.chunk.css.map": "/Ariruo/pokemon-api/static/css/main.19647aba.chunk.css.map",
-  "index.html": "/Ariruo/pokemon-api/index.html",
-  "precache-manifest.f5debae2fb732dfdcc1783c8aea7bf40.js": "/Ariruo/pokemon-api/precache-manifest.f5debae2fb732dfdcc1783c8aea7bf40.js",
-  "service-worker.js": "/Ariruo/pokemon-api/service-worker.js"
+  "main.css": "/pokemon-api/static/css/main.19647aba.chunk.css",
+  "main.js": "/pokemon-api/static/js/main.c6821e70.chunk.js",
+  "main.js.map": "/pokemon-api/static/js/main.c6821e70.chunk.js.map",
+  "static/js/1.ad961163.chunk.js": "/pokemon-api/static/js/1.ad961163.chunk.js",
+  "static/js/1.ad961163.chunk.js.map": "/pokemon-api/static/js/1.ad961163.chunk.js.map",
+  "runtime~main.js": "/pokemon-api/static/js/runtime~main.13e11ae1.js",
+  "runtime~main.js.map": "/pokemon-api/static/js/runtime~main.13e11ae1.js.map",
+  "static/css/main.19647aba.chunk.css.map": "/pokemon-api/static/css/main.19647aba.chunk.css.map",
+  "index.html": "/pokemon-api/index.html",
+  "precache-manifest.cbab629d2e0ee56f23d8e575e4ec2721.js": "/pokemon-api/precache-manifest.cbab629d2e0ee56f23d8e575e4ec2721.js",
+  "service-worker.js": "/pokemon-api/service-worker.js"
 }

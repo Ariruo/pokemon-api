@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Ariruo/pokemon-api/precache-manifest.f5debae2fb732dfdcc1783c8aea7bf40.js"
+  "/pokemon-api/precache-manifest.cbab629d2e0ee56f23d8e575e4ec2721.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Ariruo/pokemon-api/index.html", {
+workbox.routing.registerNavigationRoute("/pokemon-api/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
